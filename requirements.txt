@@ -1,0 +1,6 @@
+pandas
+numpy
+create_engine
+matplotlib.pyplot
+seaborn
+phik_matrix
