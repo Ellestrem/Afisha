@@ -4,3 +4,6 @@ create_engine
 matplotlib.pyplot
 seaborn
 phik_matrix
+os
+load_dotenv
+Path
